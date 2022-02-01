@@ -1,0 +1,2 @@
+# CalcolatriceC
+Esercitazione con git
