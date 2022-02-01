@@ -4,11 +4,8 @@ int main(){
     printf("Stampa di Alessandro Murtas");
     printf("Andrea");
     printf("Alessandro");
-<<<<<<< HEAD
-
-    return 0;
-=======
     printf("Paci");
     printf("Orru");
->>>>>>> 87f49a2c7d8ecdbd188dede649379b756b645a19
+    return 0;   
+
 }
